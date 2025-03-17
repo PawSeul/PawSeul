@@ -12,12 +12,11 @@
 
 
 ## Main Feature
-| ![소셜로그인](https://github.com/user-attachments/assets/7bcb15c6-9d51-447f-b5fd-5c68470dd31c) | ![건강분석](https://github.com/user-attachments/assets/e90f3d99-5c24-4804-a84d-abef9a4b807a) |
-|-------------------------------------------------|---------------------------------------------------|
-| ![상품조회](https://github.com/user-attachments/assets/32e537df-db45-44bb-92ed-ab2473a8ae00) | ![PG결제](https://github.com/user-attachments/assets/0b4b5510-4b3d-4c8e-97af-9d86d116dbe7) |
+![3  소셜로그인](https://github.com/user-attachments/assets/7bcb15c6-9d51-447f-b5fd-5c68470dd31c)
+![4  건강분석](https://github.com/user-attachments/assets/e90f3d99-5c24-4804-a84d-abef9a4b807a)
+![5  상품조회](https://github.com/user-attachments/assets/32e537df-db45-44bb-92ed-ab2473a8ae00)
+![6  PG결제](https://github.com/user-attachments/assets/0b4b5510-4b3d-4c8e-97af-9d86d116dbe7)
 
-
-<br/>
 <br/>
 <br/>
 
@@ -126,5 +125,4 @@
   </tr>
 </table>
 
-<br/>
 <br/>
